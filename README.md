@@ -14,4 +14,6 @@
 2. Mysql
 
 - Devops
-AWS, RDS, S3
+1. AWS
+2. RDS
+3. S3
