@@ -1,2 +1,5 @@
-package domain.member.enums;public class RoleType {
+package domain.member.enums;
+
+public enum RoleType {
+    ADMIN, ENTERPRISE, GENERAL
 }
