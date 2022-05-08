@@ -1,3 +1,5 @@
 /src/
 .gradle
 .idea
+gradle*
+settings.gradle
