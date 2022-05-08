@@ -12,3 +12,6 @@
 - DB
 1. Spring Data JPA
 2. Mysql
+
+- Devops
+AWS, RDS, S3
